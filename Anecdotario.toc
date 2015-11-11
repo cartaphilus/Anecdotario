@@ -1,16 +1,15 @@
 \select@language {spanish}
 \contentsline {chapter}{\numberline {1}La Vocaci\IeC {\'o}n}{7}
-\contentsline {section}{\numberline {1.1}}{8}
 \contentsline {chapter}{\numberline {2}Afrodita Enamorada}{19}
-\contentsline {chapter}{\numberline {3}Veterinario {\it Express} }{21}
+\contentsline {chapter}{\numberline {3}Veterinario {\it Express}}{21}
 \contentsline {chapter}{\numberline {4}Nuestra boda}{23}
 \contentsline {chapter}{\numberline {5}Mitos}{33}
 \contentsline {chapter}{\numberline {6}Perros Delincuentes}{35}
 \contentsline {chapter}{\numberline {7}Aprendiendo a cortar orejas}{39}
 \contentsline {chapter}{\numberline {8}Generosidad}{43}
-\contentsline {chapter}{\numberline {9}Un hermoso {\it poodle} negro}{47}
+\contentsline {chapter}{\numberline {9}Un hermoso {\it poodle}\/ negro}{47}
 \contentsline {chapter}{\numberline {10}\IeC {\textexclamdown }Adrenalina!}{49}
-\contentsline {chapter}{\numberline {11}\IeC {\textexclamdown }Gracias, Alma Mater!}{51}
+\contentsline {chapter}{\numberline {11}\IeC {\textexclamdown }Gracias,Alma Mater!}{51}
 \contentsline {chapter}{\numberline {12}Criadero de Perros \IeC {\textexclamdown }Rumbo al \IeC {\'e}xito econ\IeC {\'o}mico!}{57}
 \contentsline {chapter}{\numberline {13}El regreso}{63}
 \contentsline {chapter}{\numberline {14}\IeC {\textexclamdown }Peligro!}{67}
