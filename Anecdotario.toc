@@ -3,28 +3,28 @@
 \contentsline {chapter}{\numberline {2}Afrodita Enamorada}{19}
 \contentsline {chapter}{\numberline {3}Veterinario \textit {Express}}{21}
 \contentsline {chapter}{\numberline {4}Nuestra boda}{23}
-\contentsline {chapter}{\numberline {5}Mitos}{33}
-\contentsline {chapter}{\numberline {6}Perros Delincuentes}{35}
-\contentsline {chapter}{\numberline {7}Aprendiendo a cortar orejas}{39}
-\contentsline {chapter}{\numberline {8}Generosidad}{43}
-\contentsline {chapter}{\numberline {9}Un hermoso \textit {poodle} negro}{47}
-\contentsline {chapter}{\numberline {10}\IeC {\textexclamdown }Adrenalina!}{49}
-\contentsline {chapter}{\numberline {11}\IeC {\textexclamdown }Gracias, Alma Mater!}{51}
-\contentsline {chapter}{\numberline {12}Criadero de Perros \IeC {\textexclamdown }Rumbo al \IeC {\'e}xito econ\IeC {\'o}mico!}{57}
-\contentsline {chapter}{\numberline {13}El regreso}{63}
-\contentsline {chapter}{\numberline {14}\IeC {\textexclamdown }Peligro!}{67}
-\contentsline {chapter}{\numberline {15}Nuestra casa grande}{71}
-\contentsline {chapter}{\numberline {16}Rarezas}{73}
-\contentsline {chapter}{\numberline {17}Animales Traviesos}{77}
-\contentsline {chapter}{\numberline {18}Inteligencia animal}{85}
-\contentsline {chapter}{\numberline {19}Solidaridad.}{91}
-\contentsline {chapter}{\numberline {20}Ternura}{95}
-\contentsline {chapter}{\numberline {21}\IeC {\textexclamdown }\IeC {\'A}guilas!}{97}
-\contentsline {chapter}{\numberline {22}Cada cabeza es un mundo}{101}
-\contentsline {chapter}{\numberline {23}Accidentes}{105}
-\contentsline {chapter}{\numberline {24}La peor experiencia}{109}
-\contentsline {chapter}{\numberline {25}\IeC {\textquestiondown }Las mascotas entienden nuestro idioma?}{113}
-\contentsline {chapter}{\numberline {26}La guacamaya}{117}
-\contentsline {chapter}{\numberline {27}\IeC {\textexclamdown }Somos abuelos!}{121}
-\contentsline {chapter}{\numberline {28}Aprendizaje}{127}
-\contentsline {chapter}{\numberline {29}\IeC {\textexclamdown }Ya tenemos 60!}{131}
+\contentsline {chapter}{\numberline {5}Perros Delincuentes}{33}
+\contentsline {chapter}{\numberline {6}Aprendiendo a cortar orejas}{37}
+\contentsline {chapter}{\numberline {7}Generosidad}{43}
+\contentsline {chapter}{\numberline {8}Un hermoso \textit {poodle} negro}{47}
+\contentsline {chapter}{\numberline {9}\IeC {\textexclamdown }Adrenalina!}{49}
+\contentsline {chapter}{\numberline {10}\IeC {\textexclamdown }Gracias, Alma Mater!}{51}
+\contentsline {chapter}{\numberline {11}Criadero de Perros \IeC {\textexclamdown }Rumbo al \IeC {\'e}xito econ\IeC {\'o}mico!}{57}
+\contentsline {chapter}{\numberline {12}El regreso}{63}
+\contentsline {chapter}{\numberline {13}\IeC {\textexclamdown }Peligro!}{67}
+\contentsline {chapter}{\numberline {14}Nuestra casa grande}{71}
+\contentsline {chapter}{\numberline {15}Rarezas}{73}
+\contentsline {chapter}{\numberline {16}Mitos}{77}
+\contentsline {chapter}{\numberline {17}Animales Traviesos}{79}
+\contentsline {chapter}{\numberline {18}Inteligencia animal}{87}
+\contentsline {chapter}{\numberline {19}Solidaridad.}{93}
+\contentsline {chapter}{\numberline {20}Ternura}{97}
+\contentsline {chapter}{\numberline {21}\IeC {\textexclamdown }\IeC {\'A}guilas!}{99}
+\contentsline {chapter}{\numberline {22}Cada cabeza es un mundo}{103}
+\contentsline {chapter}{\numberline {23}Accidentes}{107}
+\contentsline {chapter}{\numberline {24}La peor experiencia}{111}
+\contentsline {chapter}{\numberline {25}\IeC {\textquestiondown }Las mascotas entienden nuestro idioma?}{115}
+\contentsline {chapter}{\numberline {26}La guacamaya}{119}
+\contentsline {chapter}{\numberline {27}\IeC {\textexclamdown }Somos abuelos!}{123}
+\contentsline {chapter}{\numberline {28}Aprendizaje}{129}
+\contentsline {chapter}{\numberline {29}\IeC {\textexclamdown }Ya tenemos 60!}{133}
