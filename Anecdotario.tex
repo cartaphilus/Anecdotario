@@ -2,14 +2,49 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{calligra}
+\usepackage{graphicx}
+\usepackage{setspace}
 \usepackage[spanish]{babel}
-\renewcommand{\baselinestretch}{2}
-\title{{\sffamily \huge Anecdotario de un consultorio veterinario}{\calligra{}Vivencias de una asistente de veterinario.}}
-\author{{\Large  MarPerla }\textit{marperla@openmailbox.com }}
-\date{\today}
+\newcommand*{\plogo}{\fbox{\includegraphics[scale=0.5]{MarPerla_logo01}}} 
+%
+%===================================================================================== 
+% Página Frontal
+%===================================================================================== 
+%
+\newcommand*{\titleGP}{\begingroup % Create the command for including the title page in the document
+\centering % Center all text
+%\vspace*{\baselineskip} % White space at the top of the page
+
+\rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt} % Thick horizontal line
+\rule{\textwidth}{0.4pt}\\[\baselineskip] % Thin horizontal line
+
+{\LARGE ANECDOTARIO\\ DE UN \\[0.3\baselineskip] CONSULTORIO~VETERINARIO}\\[0.2\baselineskip] % Title
+
+\rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt} % Thin horizontal line
+\rule{\textwidth}{1.6pt}\\[\baselineskip] % Thick horizontal line
+
+\scshape % Small caps
+\Large Vivencias de una asistente\\ % Tagline(s) or further description
+de veterinario. \\[\baselineskip] % Tagline(s) or further description
+León Guanajuato, México. \\  MMXV \par % Location and year
+
+\vspace*{2\baselineskip} % Whitespace between location/year and editors
+
+{\Large MarPerla \par} % Editor list
+\textit{marperla@openmailbox.org \par} % Editor affiliation
+
+\vfill % Whitespace between editor names and publisher logo
+
+\plogo\\[0.3\baselineskip] % Publisher logo
+
+\endgroup}
+
+%===================================================================================== 
 \begin{document}
-\maketitle
+\titleGP%
+\thispagestyle{empty}
 \tableofcontents
+\doublespacing%
 \chapter{La Vocación}
 Mi esposo es médico veterinario, y me platica que desde que tiene memoria, le han gustado los animales; yo pienso que tal vez la heredó, pues me cuenta, que su mamá a su vez, le decía que se parecía mucho a su abuelo en esta afición. También me ha platicado que él tendría unos siete u ocho años, cuando su mamá le mostró una foto del abuelo, a quien no conoció, tenía los brazos extendidos, y lleno completamente de palomas, sólo se le veía la cara, algo debió ponerse, para que las palomas se posaran de esa manera. 
 

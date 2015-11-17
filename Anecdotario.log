@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.9.15)  17 NOV 2015 11:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.9.15)  17 NOV 2015 13:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -252,6 +252,41 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 (/usr/share/texmf-dist/tex/latex/fundus-calligra/calligra.sty
 Package: calligra 2012/04/10 v1.9 LaTeX package calligra
 )
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/share/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2014/09/25 3.9l The Babel package
 
@@ -260,11 +295,11 @@ Language: spanish.ldf 2014/04/24 v5.0n Spanish support from the babel system
 
 (/usr/share/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2014/09/25 3.9l Babel common definitions
-\babel@savecnt=\count88
-\U@D=\dimen103
+\babel@savecnt=\count89
+\U@D=\dimen105
 )
-\es@quottoks=\toks16
-\es@quotdepth=\count89
+\es@quottoks=\toks17
+\es@quotdepth=\count90
 Package babel Info: Making " an active character on input line 516.
 Package babel Info: Making . an active character on input line 617.
 Package babel Info: Making < an active character on input line 662.
@@ -275,704 +310,609 @@ LaTeX Info: Redefining \% on input line 6.
 )
 \openout1 = `Anecdotario.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
 
-(/usr/share/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+(/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen106
+\scratchbox=\box26
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen107
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks19
+) (/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
-LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 29.86565pt on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 11.
- [1
 
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
+
+Runaway argument?
+{marperla@openmailbox.org 
+./Anecdotario.tex:44: Paragraph ended before \text@command was complete.
+<to be read again> 
+                   \par 
+l.44 \titleGP
+             %
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./Anecdotario.tex:44: Extra }, or forgotten \endgroup.
+<recently read> \egroup 
+                        
+l.44 \titleGP
+             %
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+<MarPerla_logo01.png, id=1, 155.782pt x 91.542pt>
+File: MarPerla_logo01.png Graphic file (type png)
+ <use MarPerla_logo01.png>
+Package pdftex.def Info: MarPerla_logo01.png used on input line 44.
+(pdftex.def)             Requested size: 77.8908pt x 45.77089pt.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./MarPerla_logo01.png>]
+[2
 
 ] (./Anecdotario.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [3]
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
- [4])
+ [3])
 \tf@toc=\write3
 \openout3 = `Anecdotario.toc'.
 
-LaTeX Info: Redefining \. on input line 13.
-LaTeX Info: Redefining \% on input line 13.
- [5]
-LaTeX Info: Redefining \. on input line 13.
-LaTeX Info: Redefining \% on input line 13.
- [6
-
-]
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ [4]
 Cap\'{\i }tulo 1.
 
-Underfull \vbox (badness 7012) has occurred while \output is active []
+Underfull \vbox (badness 2818) has occurred while \output is active []
 
- [7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [5
 
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
- [8]
-Underfull \vbox (badness 1968) has occurred while \output is active []
+]
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
 
- [9]
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 42.
-LaTeX Info: Redefining \% on input line 42.
- [10]
-Underfull \vbox (badness 1968) has occurred while \output is active []
-
- [11]
-Underfull \vbox (badness 1968) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 58.
-LaTeX Info: Redefining \% on input line 58.
- [12]
-[13]
-Underfull \vbox (badness 1406) has occurred while \output is active []
-
+[6] [7]
 LaTeX Info: Redefining \. on input line 82.
 LaTeX Info: Redefining \% on input line 82.
+ [8] [9]
+LaTeX Info: Redefining \. on input line 105.
+LaTeX Info: Redefining \% on input line 105.
+ [10] [11]
+LaTeX Info: Redefining \. on input line 132.
+LaTeX Info: Redefining \% on input line 132.
+ [12] [13]
+LaTeX Info: Redefining \. on input line 148.
+LaTeX Info: Redefining \% on input line 148.
  [14]
-Underfull \vbox (badness 2435) has occurred while \output is active []
-
- [15]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 102.
-LaTeX Info: Redefining \% on input line 102.
- [16]
-[17]
-LaTeX Info: Redefining \. on input line 113.
-LaTeX Info: Redefining \% on input line 113.
- [18]
 Cap\'{\i }tulo 2.
 
-Underfull \vbox (badness 3590) has occurred while \output is active []
+Underfull \vbox (badness 2818) has occurred while \output is active []
+
+ [15
+
+]
+LaTeX Info: Redefining \. on input line 161.
+LaTeX Info: Redefining \% on input line 161.
+
+[16]
+Cap\'{\i }tulo 3.
+
+Underfull \vbox (badness 2818) has occurred while \output is active []
+
+ [17
+
+]
+LaTeX Info: Redefining \. on input line 171.
+LaTeX Info: Redefining \% on input line 171.
+
+[18]
+Cap\'{\i }tulo 4.
+
+Underfull \vbox (badness 5519) has occurred while \output is active []
 
  [19
 
 ]
-LaTeX Info: Redefining \. on input line 126.
-LaTeX Info: Redefining \% on input line 126.
+LaTeX Info: Redefining \. on input line 185.
+LaTeX Info: Redefining \% on input line 185.
 
-[20]
-Cap\'{\i }tulo 3.
-
-Underfull \vbox (badness 7012) has occurred while \output is active []
-
- [21
-
-]
-LaTeX Info: Redefining \. on input line 136.
-LaTeX Info: Redefining \% on input line 136.
-
-[22]
-Cap\'{\i }tulo 4.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23
-
-]
-Underfull \vbox (badness 2435) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 149.
-LaTeX Info: Redefining \% on input line 149.
- [24]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25]
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 163.
-LaTeX Info: Redefining \% on input line 163.
- [26]
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
- [27]
-Overfull \hbox (15.34126pt too wide) in paragraph at lines 174--175
+[20] [21]
+LaTeX Info: Redefining \. on input line 204.
+LaTeX Info: Redefining \% on input line 204.
+ [22]
+Overfull \hbox (15.34126pt too wide) in paragraph at lines 209--210
 \T1/cmr/m/n/12 ellas y el de mis cu-ña-das ---ya que to-das ellas me acom-pa-ña
 -rían co-mo madrinas---
  []
 
-
-Underfull \vbox (badness 2435) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 182.
-LaTeX Info: Redefining \% on input line 182.
- [28]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [29]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 194.
-LaTeX Info: Redefining \% on input line 194.
- [30]
-[31]
-LaTeX Info: Redefining \. on input line 199.
-LaTeX Info: Redefining \% on input line 199.
- [32
-
-]
+[23]
+LaTeX Info: Redefining \. on input line 225.
+LaTeX Info: Redefining \% on input line 225.
+ [24] [25]
+LaTeX Info: Redefining \. on input line 234.
+LaTeX Info: Redefining \% on input line 234.
+ [26]
 Cap\'{\i }tulo 5.
 
-Underfull \vbox (badness 2073) has occurred while \output is active []
+Underfull \vbox (badness 1635) has occurred while \output is active []
 
- [33]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [27
 
-LaTeX Info: Redefining \. on input line 214.
-LaTeX Info: Redefining \% on input line 214.
- [34]
-Overfull \hbox (0.69206pt too wide) in paragraph at lines 218--219
+]
+LaTeX Info: Redefining \. on input line 253.
+LaTeX Info: Redefining \% on input line 253.
+
+[28]
+Overfull \hbox (0.69206pt too wide) in paragraph at lines 253--254
 []\T1/cmr/m/n/12 Por or-den pre-si-den-cial fue-ron apre-sa-dos to-dos, a pesar
 ---después se supo---
  []
 
-
-Underfull \vbox (badness 2435) has occurred while \output is active []
-
- [35]
-LaTeX Info: Redefining \. on input line 230.
-LaTeX Info: Redefining \% on input line 230.
-
-[36]
-Cap\'{\i }tulo 6.
-
-Underfull \vbox (badness 3590) has occurred while \output is active []
-
- [37
-
-]
-Underfull \vbox (badness 2435) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 247.
-LaTeX Info: Redefining \% on input line 247.
- [38]
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
- [39]
-Underfull \vbox (badness 2435) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 264.
-LaTeX Info: Redefining \% on input line 264.
- [40]
-[41]
+[29]
 LaTeX Info: Redefining \. on input line 265.
 LaTeX Info: Redefining \% on input line 265.
- [42
+ [30
 
 ]
+Cap\'{\i }tulo 6.
+
+Underfull \vbox (badness 1635) has occurred while \output is active []
+
+ [31]
+LaTeX Info: Redefining \. on input line 283.
+LaTeX Info: Redefining \% on input line 283.
+
+[32] [33]
+LaTeX Info: Redefining \. on input line 300.
+LaTeX Info: Redefining \% on input line 300.
+ [34]
 Cap\'{\i }tulo 7.
 
-Underfull \vbox (badness 7012) has occurred while \output is active []
+Underfull \vbox (badness 2818) has occurred while \output is active []
 
- [43]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [35
 
-LaTeX Info: Redefining \. on input line 276.
-LaTeX Info: Redefining \% on input line 276.
- [44]
-Underfull \vbox (badness 4752) has occurred while \output is active []
+]
+LaTeX Info: Redefining \. on input line 314.
+LaTeX Info: Redefining \% on input line 314.
 
- [45]
-LaTeX Info: Redefining \. on input line 290.
-LaTeX Info: Redefining \% on input line 290.
+[36] [37]
+LaTeX Info: Redefining \. on input line 325.
+LaTeX Info: Redefining \% on input line 325.
+ [38
 
-[46]
+]
 Cap\'{\i }tulo 8.
 
-Underfull \vbox (badness 7012) has occurred while \output is active []
+Underfull \vbox (badness 5519) has occurred while \output is active []
+
+ [39]
+LaTeX Info: Redefining \. on input line 334.
+LaTeX Info: Redefining \% on input line 334.
+
+[40]
+Cap\'{\i }tulo 9.
+
+Underfull \vbox (badness 2818) has occurred while \output is active []
+
+ [41
+
+]
+LaTeX Info: Redefining \. on input line 345.
+LaTeX Info: Redefining \% on input line 345.
+
+[42]
+Cap\'{\i }tulo 10.
+
+Underfull \vbox (badness 1635) has occurred while \output is active []
+
+ [43
+
+]
+LaTeX Info: Redefining \. on input line 373.
+LaTeX Info: Redefining \% on input line 373.
+
+[44] [45]
+LaTeX Info: Redefining \. on input line 395.
+LaTeX Info: Redefining \% on input line 395.
+ [46]
+Cap\'{\i }tulo 11.
+
+Underfull \vbox (badness 1997) has occurred while \output is active []
 
  [47
 
 ]
-LaTeX Info: Redefining \. on input line 299.
-LaTeX Info: Redefining \% on input line 299.
-
-[48]
-Cap\'{\i }tulo 9.
-
-Underfull \vbox (badness 7012) has occurred while \output is active []
-
- [49
-
-]
-LaTeX Info: Redefining \. on input line 310.
-LaTeX Info: Redefining \% on input line 310.
-
-[50]
-Cap\'{\i }tulo 10.
-
-Underfull \vbox (badness 2073) has occurred while \output is active []
-
- [51
-
-]
-LaTeX Info: Redefining \. on input line 334.
-LaTeX Info: Redefining \% on input line 334.
-
-[52]
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
- [53]
-Underfull \vbox (badness 2435) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 358.
-LaTeX Info: Redefining \% on input line 358.
- [54]
-[55]
-LaTeX Info: Redefining \. on input line 360.
-LaTeX Info: Redefining \% on input line 360.
- [56
-
-]
-Cap\'{\i }tulo 11.
-
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
- [57]
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 373.
-LaTeX Info: Redefining \% on input line 373.
-
-Overfull \hbox (36.55177pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 58 \T1/cmr/m/sl/12 CAPÍTULO 11.  CRIADERO DE PERROS ½RUMBO AL ÉX
-ITO ECONÓMICO!
- []
-
-[58]
-Overfull \hbox (5.74512pt too wide) in paragraph at lines 375--376
+Overfull \hbox (5.74512pt too wide) in paragraph at lines 410--411
 []\T1/cmr/m/n/12 Recuerdo muy bien que la pri-me-ra hem-bri-ta que com-pró era 
 una \T1/cmr/m/it/12 Chihuahua
  []
 
-
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
- [59]
-Underfull \vbox (badness 1406) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 394.
-LaTeX Info: Redefining \% on input line 394.
+LaTeX Info: Redefining \. on input line 411.
+LaTeX Info: Redefining \% on input line 411.
 
 Overfull \hbox (36.55177pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 60 \T1/cmr/m/sl/12 CAPÍTULO 11.  CRIADERO DE PERROS ½RUMBO AL ÉX
+\T1/cmr/m/n/12 48 \T1/cmr/m/sl/12 CAPÍTULO 11.  CRIADERO DE PERROS ½RUMBO AL ÉX
 ITO ECONÓMICO!
  []
 
-[60]
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
- [61]
-LaTeX Info: Redefining \. on input line 404.
-LaTeX Info: Redefining \% on input line 404.
+[48] [49]
+LaTeX Info: Redefining \. on input line 436.
+LaTeX Info: Redefining \% on input line 436.
 
 Overfull \hbox (36.55177pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 62 \T1/cmr/m/sl/12 CAPÍTULO 11.  CRIADERO DE PERROS ½RUMBO AL ÉX
+\T1/cmr/m/n/12 50 \T1/cmr/m/sl/12 CAPÍTULO 11.  CRIADERO DE PERROS ½RUMBO AL ÉX
 ITO ECONÓMICO!
  []
 
-[62]
+[50] [51]
+LaTeX Info: Redefining \. on input line 439.
+LaTeX Info: Redefining \% on input line 439.
+
+Overfull \hbox (36.55177pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 52 \T1/cmr/m/sl/12 CAPÍTULO 11.  CRIADERO DE PERROS ½RUMBO AL ÉX
+ITO ECONÓMICO!
+ []
+
+[52
+
+]
 Cap\'{\i }tulo 12.
 
-Underfull \vbox (badness 3590) has occurred while \output is active []
+Underfull \vbox (badness 1635) has occurred while \output is active []
+
+ [53]
+LaTeX Info: Redefining \. on input line 461.
+LaTeX Info: Redefining \% on input line 461.
+
+[54] [55]
+LaTeX Info: Redefining \. on input line 474.
+LaTeX Info: Redefining \% on input line 474.
+ [56]
+Cap\'{\i }tulo 13.
+
+Underfull \vbox (badness 2818) has occurred while \output is active []
+
+ [57
+
+]
+LaTeX Info: Redefining \. on input line 488.
+LaTeX Info: Redefining \% on input line 488.
+
+[58] [59]
+LaTeX Info: Redefining \. on input line 495.
+LaTeX Info: Redefining \% on input line 495.
+ [60
+
+]
+Cap\'{\i }tulo 14.
+
+Underfull \vbox (badness 1635) has occurred while \output is active []
+
+ [61]
+LaTeX Info: Redefining \. on input line 504.
+LaTeX Info: Redefining \% on input line 504.
+
+[62]
+Cap\'{\i }tulo 15.
+
+Underfull \vbox (badness 1635) has occurred while \output is active []
 
  [63
 
 ]
-Underfull \vbox (badness 2435) has occurred while \output is active []
+LaTeX Info: Redefining \. on input line 519.
+LaTeX Info: Redefining \% on input line 519.
 
-LaTeX Info: Redefining \. on input line 422.
-LaTeX Info: Redefining \% on input line 422.
- [64]
-Underfull \vbox (badness 2435) has occurred while \output is active []
+[64]
+Cap\'{\i }tulo 16.
 
- [65]
-LaTeX Info: Redefining \. on input line 439.
-LaTeX Info: Redefining \% on input line 439.
+Underfull \vbox (badness 1635) has occurred while \output is active []
+
+ [65
+
+]
+LaTeX Info: Redefining \. on input line 528.
+LaTeX Info: Redefining \% on input line 528.
 
 [66]
-Cap\'{\i }tulo 13.
+Cap\'{\i }tulo 17.
 
-Underfull \vbox (badness 3590) has occurred while \output is active []
+Underfull \vbox (badness 2818) has occurred while \output is active []
 
  [67
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2310) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 451.
-LaTeX Info: Redefining \% on input line 451.
+LaTeX Info: Redefining \. on input line 541.
+LaTeX Info: Redefining \% on input line 541.
  [68]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 7814) has occurred while \output is active []
 
  [69]
-LaTeX Info: Redefining \. on input line 460.
-LaTeX Info: Redefining \% on input line 460.
+LaTeX Info: Redefining \. on input line 558.
+LaTeX Info: Redefining \% on input line 558.
 
-[70]
-Cap\'{\i }tulo 14.
+[70] [71]
+LaTeX Info: Redefining \. on input line 570.
+LaTeX Info: Redefining \% on input line 570.
+ [72]
+Cap\'{\i }tulo 18.
 
-Underfull \vbox (badness 3590) has occurred while \output is active []
-
- [71
-
-]
-LaTeX Info: Redefining \. on input line 469.
-LaTeX Info: Redefining \% on input line 469.
-
-[72]
-Cap\'{\i }tulo 15.
-
-Underfull \vbox (badness 3590) has occurred while \output is active []
+Underfull \vbox (badness 2818) has occurred while \output is active []
 
  [73
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Info: Redefining \. on input line 587.
+LaTeX Info: Redefining \% on input line 587.
 
-LaTeX Info: Redefining \. on input line 482.
-LaTeX Info: Redefining \% on input line 482.
- [74]
-[75]
-LaTeX Info: Redefining \. on input line 484.
-LaTeX Info: Redefining \% on input line 484.
- [76
-
-]
-Cap\'{\i }tulo 16.
-
-Underfull \vbox (badness 3590) has occurred while \output is active []
-
- [77]
-LaTeX Info: Redefining \. on input line 493.
-LaTeX Info: Redefining \% on input line 493.
-
-[78]
-Cap\'{\i }tulo 17.
-
-Underfull \vbox (badness 3590) has occurred while \output is active []
-
- [79
+[74] [75]
+LaTeX Info: Redefining \. on input line 608.
+LaTeX Info: Redefining \% on input line 608.
+ [76] [77]
+LaTeX Info: Redefining \. on input line 613.
+LaTeX Info: Redefining \% on input line 613.
+ [78
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 506.
-LaTeX Info: Redefining \% on input line 506.
- [80]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [81]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 515.
-LaTeX Info: Redefining \% on input line 515.
- [82]
-Underfull \vbox (badness 2435) has occurred while \output is active []
-
- [83]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 530.
-LaTeX Info: Redefining \% on input line 530.
- [84]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [85]
-LaTeX Info: Redefining \. on input line 535.
-LaTeX Info: Redefining \% on input line 535.
-
-[86]
-Cap\'{\i }tulo 18.
-
-Underfull \vbox (badness 3590) has occurred while \output is active []
-
- [87
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 549.
-LaTeX Info: Redefining \% on input line 549.
- [88]
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
- [89]
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 569.
-LaTeX Info: Redefining \% on input line 569.
- [90]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [91]
-LaTeX Info: Redefining \. on input line 578.
-LaTeX Info: Redefining \% on input line 578.
-
-[92]
 Cap\'{\i }tulo 19.
 
-Underfull \vbox (badness 7012) has occurred while \output is active []
+Underfull \vbox (badness 5519) has occurred while \output is active []
 
- [93
+ [79]
+LaTeX Info: Redefining \. on input line 631.
+LaTeX Info: Redefining \% on input line 631.
 
-]
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 594.
-LaTeX Info: Redefining \% on input line 594.
- [94]
-[95]
-LaTeX Info: Redefining \. on input line 596.
-LaTeX Info: Redefining \% on input line 596.
- [96
-
-]
+[80]
 Cap\'{\i }tulo 20.
 
-Underfull \vbox (badness 2073) has occurred while \output is active []
+Underfull \vbox (badness 1028) has occurred while \output is active []
 
- [97]
-LaTeX Info: Redefining \. on input line 618.
-LaTeX Info: Redefining \% on input line 618.
-
-[98]
-Cap\'{\i }tulo 21.
-
-Underfull \vbox (badness 7012) has occurred while \output is active []
-
- [99
+ [81
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 626.
-LaTeX Info: Redefining \% on input line 626.
- [100]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [101]
-LaTeX Info: Redefining \. on input line 634.
-LaTeX Info: Redefining \% on input line 634.
-
-[102]
-Cap\'{\i }tulo 22.
-
-Underfull \vbox (badness 2073) has occurred while \output is active []
-
- [103
-
-]
-Underfull \vbox (badness 2435) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 652.
-LaTeX Info: Redefining \% on input line 652.
- [104]
-[105]
 LaTeX Info: Redefining \. on input line 653.
 LaTeX Info: Redefining \% on input line 653.
- [106
+
+[82]
+Cap\'{\i }tulo 21.
+
+Underfull \vbox (badness 5519) has occurred while \output is active []
+
+ [83
 
 ]
+Underfull \vbox (badness 7814) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 661.
+LaTeX Info: Redefining \% on input line 661.
+ [84]
+[85]
+LaTeX Info: Redefining \. on input line 669.
+LaTeX Info: Redefining \% on input line 669.
+ [86
+
+]
+Cap\'{\i }tulo 22.
+[87]
+LaTeX Info: Redefining \. on input line 688.
+LaTeX Info: Redefining \% on input line 688.
+ [88]
 Cap\'{\i }tulo 23.
 
-Underfull \vbox (badness 3590) has occurred while \output is active []
+Underfull \vbox (badness 1635) has occurred while \output is active []
 
- [107]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [89
 
-LaTeX Info: Redefining \. on input line 668.
-LaTeX Info: Redefining \% on input line 668.
- [108]
-[109]
-LaTeX Info: Redefining \. on input line 674.
-LaTeX Info: Redefining \% on input line 674.
- [110
+]
+LaTeX Info: Redefining \. on input line 706.
+LaTeX Info: Redefining \% on input line 706.
+
+[90] [91]
+LaTeX Info: Redefining \. on input line 709.
+LaTeX Info: Redefining \% on input line 709.
+ [92
 
 ]
 Cap\'{\i }tulo 24.
 
-Underfull \vbox (badness 3590) has occurred while \output is active []
+Underfull \vbox (badness 1635) has occurred while \output is active []
 
- [111]
-Underfull \vbox (badness 1406) has occurred while \output is active []
+ [93]
+LaTeX Info: Redefining \. on input line 734.
+LaTeX Info: Redefining \% on input line 734.
 
-LaTeX Info: Redefining \. on input line 694.
-LaTeX Info: Redefining \% on input line 694.
- [112]
-[113]
-LaTeX Info: Redefining \. on input line 704.
-LaTeX Info: Redefining \% on input line 704.
- [114
+[94] [95]
+LaTeX Info: Redefining \. on input line 739.
+LaTeX Info: Redefining \% on input line 739.
+ [96
 
 ]
 Cap\'{\i }tulo 25.
 
-Underfull \vbox (badness 4752) has occurred while \output is active []
+Underfull \vbox (badness 1997) has occurred while \output is active []
 
- [115]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [97]
+Underfull \vbox (badness 7814) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 712.
-LaTeX Info: Redefining \% on input line 712.
+LaTeX Info: Redefining \. on input line 750.
+LaTeX Info: Redefining \% on input line 750.
+ [98]
+[99]
+LaTeX Info: Redefining \. on input line 758.
+LaTeX Info: Redefining \% on input line 758.
 
 Overfull \hbox (0.82155pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 116 \T1/cmr/m/sl/12 CAPÍTULO 25.  ¾LAS MASCOTAS ENTIENDEN NUESTR
+\T1/cmr/m/n/12 100 \T1/cmr/m/sl/12 CAPÍTULO 25.  ¾LAS MASCOTAS ENTIENDEN NUESTR
 O IDIOMA?
  []
 
-[116]
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
- [117]
-LaTeX Info: Redefining \. on input line 723.
-LaTeX Info: Redefining \% on input line 723.
-
-Overfull \hbox (0.82155pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 118 \T1/cmr/m/sl/12 CAPÍTULO 25.  ¾LAS MASCOTAS ENTIENDEN NUESTR
-O IDIOMA?
- []
-
-[118]
-Cap\'{\i }tulo 26.
-
-Underfull \vbox (badness 7012) has occurred while \output is active []
-
- [119
+[100
 
 ]
-Underfull \vbox (badness 4752) has occurred while \output is active []
+Cap\'{\i }tulo 26.
 
-LaTeX Info: Redefining \. on input line 738.
-LaTeX Info: Redefining \% on input line 738.
- [120]
-[121]
-LaTeX Info: Redefining \. on input line 743.
-LaTeX Info: Redefining \% on input line 743.
- [122
+Underfull \vbox (badness 5519) has occurred while \output is active []
+
+ [101]
+LaTeX Info: Redefining \. on input line 775.
+LaTeX Info: Redefining \% on input line 775.
+
+[102] [103]
+LaTeX Info: Redefining \. on input line 778.
+LaTeX Info: Redefining \% on input line 778.
+ [104
 
 ]
 Cap\'{\i }tulo 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 746.
+(Font)              <12> on input line 781.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 746.
+(Font)              <8> on input line 781.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 746.
+(Font)              <6> on input line 781.
 
-Underfull \vbox (badness 3590) has occurred while \output is active []
+Underfull \vbox (badness 2818) has occurred while \output is active []
 
- [123]
+ [105]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 753.
-LaTeX Info: Redefining \% on input line 753.
- [124]
-Underfull \vbox (badness 1968) has occurred while \output is active []
+LaTeX Info: Redefining \. on input line 791.
+LaTeX Info: Redefining \% on input line 791.
+ [106]
+Underfull \vbox (badness 1502) has occurred while \output is active []
 
- [125]
-Underfull \vbox (badness 1406) has occurred while \output is active []
+ [107]
+LaTeX Info: Redefining \. on input line 815.
+LaTeX Info: Redefining \% on input line 815.
 
-LaTeX Info: Redefining \. on input line 772.
-LaTeX Info: Redefining \% on input line 772.
- [126]
-Underfull \vbox (badness 4752) has occurred while \output is active []
+[108] [109]
+LaTeX Info: Redefining \. on input line 816.
+LaTeX Info: Redefining \% on input line 816.
+ [110
 
- [127]
-LaTeX Info: Redefining \. on input line 781.
-LaTeX Info: Redefining \% on input line 781.
-
-[128]
+]
 Cap\'{\i }tulo 28.
 
-Underfull \vbox (badness 2073) has occurred while \output is active []
+Underfull \vbox (badness 1028) has occurred while \output is active []
 
- [129
+ [111]
+LaTeX Info: Redefining \. on input line 838.
+LaTeX Info: Redefining \% on input line 838.
 
-]
-Underfull \vbox (badness 2435) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 801.
-LaTeX Info: Redefining \% on input line 801.
- [130]
-[131]
-LaTeX Info: Redefining \. on input line 803.
-LaTeX Info: Redefining \% on input line 803.
- [132
-
-]
+[112]
 Cap\'{\i }tulo 29.
 
-Underfull \vbox (badness 2073) has occurred while \output is active []
+Underfull \vbox (badness 1635) has occurred while \output is active []
 
- [133]
-Underfull \vbox (badness 2435) has occurred while \output is active []
+ [113
 
-LaTeX Info: Redefining \. on input line 822.
-LaTeX Info: Redefining \% on input line 822.
- [134]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+]
+LaTeX Info: Redefining \. on input line 858.
+LaTeX Info: Redefining \% on input line 858.
 
- [135]
-LaTeX Info: Redefining \. on input line 837.
-LaTeX Info: Redefining \% on input line 837.
-
-[136] (./Anecdotario.aux
+[114] [115]
+LaTeX Info: Redefining \. on input line 872.
+LaTeX Info: Redefining \% on input line 872.
+ [116] (./Anecdotario.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 1536 strings out of 493089
- 17476 string characters out of 6140694
- 81823 words of memory out of 5000000
- 5037 multiletter control sequences out of 15000+600000
- 20469 words of font info for 44 fonts, out of 8000000 for 9000
+ 2791 strings out of 493089
+ 35637 string characters out of 6140694
+ 103493 words of memory out of 5000000
+ 6229 multiletter control sequences out of 15000+600000
+ 17484 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 27i,7n,30p,1773b,594s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,6n,30p,1773b,417s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/
-texmf-dist/fonts/type1/public/calligra-type1/callig15.pfb></usr/share/texmf-dis
-t/fonts/type1/public/cm-super/sfbi1200.pfb></usr/share/texmf-dist/fonts/type1/p
-ublic/cm-super/sfbi2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/
-sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></
-usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf
--dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/share/texmf-dist/fonts/typ
-e1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-su
-per/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pf
-b></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/t
-exmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf-dist/fonts
-/type1/public/cm-super/sfss2488.pfb></usr/share/texmf-dist/fonts/type1/public/c
-m-super/sfti1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti144
-0.pfb>
-Output written on Anecdotario.pdf (136 pages, 382603 bytes).
+texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/share/texmf-dist/font
+s/type1/public/cm-super/sfbi2488.pfb></usr/share/texmf-dist/fonts/type1/public/
+cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx17
+28.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/share/texmf-dist/
+fonts/type1/public/cm-super/sfcc1728.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sf
+rm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></us
+r/share/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf-d
+ist/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf-dist/fonts/type1
+/public/cm-super/sfti1728.pfb>
+Output written on Anecdotario.pdf (116 pages, 362610 bytes).
 PDF statistics:
- 504 PDF objects out of 1000 (max. 8388607)
- 347 compressed objects within 4 object streams
+ 435 PDF objects out of 1000 (max. 8388607)
+ 299 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
